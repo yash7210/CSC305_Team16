@@ -13,7 +13,38 @@ identity and orientation.
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
+## Decisions
+Decisions will be made on group majority. 
+
+## Attendance
+We expect every member to attend meetings at least once a week. And legitimate reasons for missing 
+are illnesses or school conflicts. If a member misses a meeting, they can look at 
+meeting notes and agendas and ask members for questions if they have any.
+
+## Assignments
+The assignments will be made by group members and assigned based on skill and interest.
+
+## Participation
+Communication will be done through text messages or discord. To honor each members skill and interest
+each member will given time in meetings to talk about their assignment and will be given assignments closest
+to their skill and interest.
+
+## Agenda and Minutes /Notes
+Agendas and notes will be taken by a selected member for each week and will be distributed on discord or email.
+
+## Promptness
+Everyone is expected to hand in assignments on time, however if needed members will be given extensions.
+
+## Conversational Courtesies
+Each member will be given time in each meeting to share their progress and problems/obstacles and successes.
+
+
+## Enforcement/ Feedback
+Feedback can given to other members through text messages, discord, or even in person to ensure that the project
+is done correctly and efficiently.
+
 ## Our Standards
+
 
 Examples of behavior that contributes to a positive environment for our
 community include:
