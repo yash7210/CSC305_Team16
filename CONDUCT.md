@@ -163,4 +163,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
 
-<img src="JacobSignature.png" alt="jacob signature" height = "100" width="200"/>
+<img src= "src/jacobsignature.png" height = "100" width="200"/>
