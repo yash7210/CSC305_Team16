@@ -164,5 +164,5 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 <img src= "src/JacobSignature.png" height = "100" width="200"/>
-<img src= "src/Riley Maguire Signature.png" height="100" width="200"/>
+<img src= "src/Riley_Maguire_Signature.png" height="100" width="200"/>
 <img src= "src/Yash_Signature.png" height="100" width="200"/>
