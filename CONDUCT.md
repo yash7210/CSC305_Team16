@@ -168,3 +168,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 <img src= "src/Riley_Maguire_Signature.png" height="100" width="200"/>
 <img src= "src/Yash_Signature.png" height="100" width="200"/>
 <img src= "src/Dante_Signature.jpg" height = "100" width="200"/>
+<img src= "src/ConorSignature.jpg" height = "100" width="200"/>
