@@ -1,7 +1,7 @@
 # CSC305 Team 16
-# NAME TBD
+# Fitness Rivals
 
-Welcome to the NAME TBD, an engaging and competitive way to stay fit and healthy! Developed using Thunkable, our app is designed to make fitness fun by incorporating elements of competition and social interaction. Join leagues with your friends or create your own to compete in challenges based on steps taken or calories lost. Track your progress, climb up the leaderboard, and achieve your fitness goals together!
+Welcome to the Fitness Rivals, an engaging and competitive way to stay fit and healthy! Developed using Thunkable, our app is designed to make fitness fun by incorporating elements of competition and social interaction. Join leagues with your friends or create your own to compete in challenges based on steps taken or calories lost. Track your progress, climb up the leaderboard, and achieve your fitness goals together!
 
 ## Features
 
