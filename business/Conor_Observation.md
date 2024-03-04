@@ -1,4 +1,4 @@
-## Observation 2:
+### Observation 2:
   **Statement**: Wide range of workout frequency within the survey participants. <br> <br>
   **Supporting Data**: When survey participants were asked about their workout frequency, the percentages chosen were, **7%** chose "Everyday", <br>
   **32.6%** "3+ times a week", **4.7%** "3 times a week", **16.3%** "Once a week", **39.5%** "rarely". <br><br>
