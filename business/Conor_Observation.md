@@ -1,0 +1,6 @@
+## Observation 2:
+  **Statement**: Wide range of workout frequency within the survey participants.
+  **Supporting Data**: When survey participants were asked about their workout frequency, the percentages chosen were, **7%** chose "Everyday", 
+  **32.6%** "3+ times a week", **4.7%** "3 times a week", **16.3%** "Once a week", **39.5%** "rarely".
+  **Team Action**: Our development team will ensure that the app is not tailored to any individual of a specific workout frequency. 
+  For example, achievements that could only be completed by everyday atheletes will not dominate the potential achievement pool. There will be acheievements that are suitable for all groups presented in our survey.
