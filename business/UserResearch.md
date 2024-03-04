@@ -21,6 +21,23 @@
  **Supporting Data**: The most beneficial part of the survey was asking the respondents for ideas of features that could be added, as there were many great ideas. One being “Skins for if you win at a certain time aka Christmas winner 2024. Crown system to show how many times you have won a league and it shows next to your name on the leaderboard”. Another great idea was a weekly review screen, maybe on Sunday whenever someone opens the app, they are greeted with a weekly review screen on their performance and those that are in their leagues. There were many comments similar to this “Based on this I am assuming probably how many reps someone can do, I also think it'd be a cool idea to do a leaderboard on who can lift the most factoring in their weight ratio” and I believe this is the most important, because if we were to add a statistic of weight lifting, we would have to factor in weight as someone who weighs 100 pounds would probably not be able to bench press 200-300 and someone who is 250 pound could probably bench press 200-300 easily, and that 100 pound person is at a disadvantage and would feel demotivated. So I believe progression should be a key factor, how much someone has progressed from the beginning of the journey, or their week, also include reps. <br> <br>
  **Team Action**: One of our main goals of this project is to figure out what categories each league can choose and how to determine a point system.<br> <br>
 
+### Observation 4:
+**Observation Statement**:
+There are many good ideas from our survey when we asked what would lead someone to use a fitness app.
+ **Supporting Data**:
+Some examples of great responses from this category:
+.) Help making workout routine
+.) App can display workouts for a particular part of the body they want to work on
+.) Built-in schedule maker for workouts and when to do them
+.) Ease of use. User's don't want to spend time pushing buttons when they could be working out. App should not be a burden to their workout routine.
+.) Calorie tracking / tracking workout progress / tracking weight loss or gain
+.) workout suggestions and diet suggestions
+.) app generates daily workout plan
+.) App helps keep user motivated to keep working out.
+ **Team Action (if any)**:
+It would be ideal to implement as many of these suggestions into the app as possible to increase user engagement and ensure users keep using the app. Working as a team we could assign certain features to develop. I would assume there would be some features that we would need to implement before others. For example, we should have a working leaderboard before we have a way to track calories.
+
+
 ### Observation 5:
   - **Statement:** Based off the survey, a majority of people would join a competitive league with their friends within the app.
   - **Supporting Data:** When analyzing the results of the survey, when asked it was found that **69.8%** of people would join a competitive league, while only **30.2%** would not.
