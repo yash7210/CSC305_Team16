@@ -1,8 +1,10 @@
 ### Observation 1:
    **Statement**: Many surveyors mentioned that they would like to see badges, rewards, fitness points or prizes for people on the leaderboard
+   
    **Supporting Data**: Looking at the responses for the Survey Question “What features would you expect to have from an app with a leaderboard?”, many people 
     mention the words “stats”, “prizes”, “rewards” and “points”. They express interest in having a good way to track everyone’s fitness levels and get some 
      reward accordingly.
+  
   **Team Action**: This observation tells me that users would like to have a gamified experience with this app. They want something that motivates them to 
     workout and compete with their fellow friends on the leaderboard. We could decide as a team what system we would use to determine ranking on the 
     leaderboard, and come up with ideas for the rewards given to the top people on the leaderboard. 
