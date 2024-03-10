@@ -7,7 +7,40 @@
                     "children": []
                 }
             },
-            "assets": {},
+            "assets": {
+                "65ecdafc8f37ead5bb0f17c8": {
+                    "externalStorageType": "GCS",
+                    "_id": "65ecdafc8f37ead5bb0f17c8",
+                    "size": "140702",
+                    "mimetype": "image/webp",
+                    "encoding": "7bit",
+                    "originalname": "DALL\u00c2\u00b7E 2024-03-07 10.43.26 - Revise the logo for the app FitnessRivals, ensuring the background color matches exactly the near mint green, hex #24DE9B. Incorporate the text 'Fitne.webp",
+                    "backendURI": "/project/65ecd9726ee0575828ca172a/getasset/65ecdafc8f37ead5bb0f17c8",
+                    "name": "DALL\u00c2\u00b7E 2024-03-07 10.43.26 - Revise the logo for the app FitnessRivals, ensuring the background color matches exactly the near mint green, hex #24DE9B. Incorporate the text 'Fitne.webp",
+                    "externalName": "users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65ecdafc8f37ead5bb0f17c8",
+                    "createdAt": "2024-03-09T21:56:13.079Z",
+                    "updatedAt": "2024-03-09T21:56:13.079Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65ecdafc8f37ead5bb0f17c8?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240309%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240309T215613Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=bcd90de2657ecc1e729e922834c0dc271aa5c116d9a2ec2d552c7bb60807863583a98a0f9ddaf681e9b2768585a7d96d61404d080c6aec1f843413211b41bcf8d963bcc41adb6877c2e149811205f88e71c0c620089ea212d9e3de66e06518acdaf05146d4ab4b3b1c34f456e934454996363c41cc0bb80c172acddb5a4fae3d4d2e0fc8de90bcc1089c46c0c36c3041c329771ebba8202f7dc962977fc1f98b13d8091eb8951b76df08a7d100b2e75218dce631885929e88687de35a23927d6f168d8ae7514036a84bb87485fb90c598c827b77663aaf88f2f97d97715a0ce11fdf359d41db9a8b57f6967d5f07eee11563a7ae9e055951198d506b44d49e94",
+                    "signedUrlExpirationTime": 1710194173106
+                },
+                "65ed461689e54f7dfe8d4585": {
+                    "externalStorageType": "GCS",
+                    "_id": "65ed461689e54f7dfe8d4585",
+                    "size": "993902",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "DALL\u00c2\u00b7E 2024-03-10 00.28.04 - Revise the logo for the app FitnessRivals, ensuring the background color matches exactly the near mint green, hex #24DE9B. Incorporate the text 'Fitne.png",
+                    "backendURI": "/project/65ecd9726ee0575828ca172a/getasset/65ed461689e54f7dfe8d4585",
+                    "name": "DALL\u00c2\u00b7E 2024-03-10 00.28.04 - Revise the logo for the app FitnessRivals, ensuring the background color matches exactly the near mint green, hex #24DE9B. Incorporate the text 'Fitne.png",
+                    "externalName": "users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65ed461689e54f7dfe8d4585",
+                    "createdAt": "2024-03-10T05:33:10.246Z",
+                    "updatedAt": "2024-03-10T05:33:10.246Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65ed461689e54f7dfe8d4585?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240310%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240310T053310Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=56ae553de826a9da27ea577ae6ca0e6aac161e7410047e8309625165ee60c54e8db859ad607650f998928542caa29ebd6bf92412ef908ff4d36383c8702ba6fab5416bb6db1ce5231fe074770336289befcbbbf885288a78e820e10bcb6fe35620d50845683f3e48688ec47a3c3ddaea479dd38b54d9cc5011cf9abc0be6fbac4cc375877e01ef78f62c9a44ae35e81ea02792f95f88c81be4aa3e50147a6ad9e0c2ebe78e9eed090fd9866bf86a7c6e3920d5f7c5dc36b227b4336c43d7246edb38b31d2a7d42e089a23ed319406d368ea36ee1d62796d8f2f2e4206a768b3ea916b4b28aa616f1cae0eb09652056307bc4281c4347308cd5db758cfe06bed4",
+                    "signedUrlExpirationTime": 1710221590271
+                }
+            },
             "backendUpgradeVersion": 24,
             "blockly": {
                 "6ec24246-6a7f-4f44-a084-120fab1d711b": {
@@ -178,7 +211,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "5",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
