@@ -1,4 +1,5 @@
 {
+    "id": "3574da1c-64ca-4d29-9b87-30b0c66ca8c7",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -168,7 +169,6 @@
             "name": "Image2"
         }
     ],
-    "id": "3574da1c-64ca-4d29-9b87-30b0c66ca8c7",
     "thunkableVersion": 447,
     "name": "Leaderboard_Screen"
 }
