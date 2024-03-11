@@ -64,6 +64,171 @@
             "properties": {
                 "Text": "",
                 "FontSize": 18,
+                "Font": "Pacifico",
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(0, 0, 0, 1)",
+                "Height": 45,
+                "Width": 311,
+                "Visible": true,
+                "X": 29,
+                "Y": 380,
+                "RelativeX": 29,
+                "RelativeY": 380,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(0, 0, 0, 1)",
+                    "fontSize": 18,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "26.8%",
+                    "top": "52.98210269865068%",
+                    "lineHeight": 1,
+                    "display": "flex"
+                },
+                "ParentId": "362991b4-4563-4c06-a282-dc71ee3dd631",
+                "position": "absolute",
+                "edgeOffsets": 380,
+                "children": ""
+            },
+            "children": [],
+            "id": "3ea0e186-f26b-45cd-a8e5-ee06d6117474",
+            "thunkableVersion": 447,
+            "name": "errorLabel"
+        },
+        {
+            "type": "Switch",
+            "translatedName": "Switch",
+            "reactType": "Switch",
+            "properties": {
+                "value": true,
+                "Visible": true,
+                "tintColor": "rgba(176, 176, 176, 100)",
+                "onTintColor": "rgba(208, 215, 231, 100)",
+                "thumbTintColor": "rgba(93, 122, 252, 100)",
+                "offThumbTintColor": "rgba(248, 249, 251, 100)",
+                "Height": 20,
+                "Width": 40,
+                "X": 233,
+                "Y": 342,
+                "RelativeX": 233,
+                "RelativeY": 342,
+                "ResizeMode": "STRETCH",
+                "ParentId": "362991b4-4563-4c06-a282-dc71ee3dd631",
+                "position": "absolute",
+                "edgeOffsets": 342,
+                "style": {
+                    "position": "absolute",
+                    "left": "59.86666666666667%",
+                    "top": "48.634276611694155%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "ccd32b17-555c-4686-bf06-4feb3527ed5d",
+            "thunkableVersion": 447,
+            "name": "saveLoginSwitch"
+        },
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
+                "Text": "Save Login Info?",
+                "FontSize": 18,
+                "Font": "Merriweather",
+                "CustomFont": "",
+                "LineHeight": 1,
+                "Color": "rgba(0, 0, 0, 1)",
+                "Height": 39,
+                "Width": 163,
+                "Visible": true,
+                "X": 25,
+                "Y": 332,
+                "RelativeX": 25,
+                "RelativeY": 332,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "color": "rgba(0, 0, 0, 1)",
+                    "fontSize": 18,
+                    "fontStyle": "normal",
+                    "textShadowOffset": {},
+                    "letterSpacing": 0,
+                    "textDecorationLine": "none",
+                    "textDecorationStyle": "solid",
+                    "textDecorationColor": "rgba(0, 0, 0, 1)",
+                    "writingDirection": "auto",
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "flexWrap": "wrap",
+                    "borderWidth": 0,
+                    "borderRadius": 0,
+                    "borderColor": "rgba(236, 237, 237, 1)",
+                    "borderStyle": "solid",
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "11.333333333333334%",
+                    "top": "49.08405172413793%",
+                    "lineHeight": 1,
+                    "display": "flex"
+                },
+                "ParentId": "362991b4-4563-4c06-a282-dc71ee3dd631",
+                "position": "absolute",
+                "edgeOffsets": 332,
+                "children": "Save Login Info?"
+            },
+            "children": [],
+            "id": "6ca6c6d1-9d7a-4926-9faa-b3a06be7ddab",
+            "thunkableVersion": 447,
+            "name": "saveLoginInfoLabel"
+        },
+        {
+            "type": "Label",
+            "translatedName": "Label",
+            "reactType": "Text",
+            "properties": {
+                "Text": "",
+                "FontSize": 18,
                 "Font": "",
                 "CustomFont": "",
                 "LineHeight": 1,
@@ -255,9 +420,9 @@
                 "Width": 300,
                 "Visible": true,
                 "X": 40,
-                "Y": 576,
+                "Y": 603,
                 "RelativeX": 40,
-                "RelativeY": 576,
+                "RelativeY": 603,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -288,7 +453,7 @@
                 "Disabled": false,
                 "ParentId": "362991b4-4563-4c06-a282-dc71ee3dd631",
                 "position": "absolute",
-                "edgeOffsets": 576
+                "edgeOffsets": 603
             },
             "children": [],
             "id": "04bb3a9b-6932-4198-b6ba-fb5decddca17",
@@ -309,9 +474,9 @@
                 "Width": 300,
                 "Visible": true,
                 "X": 40,
-                "Y": 505,
+                "Y": 541,
                 "RelativeX": 40,
-                "RelativeY": 505,
+                "RelativeY": 541,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -342,7 +507,7 @@
                 "Disabled": false,
                 "ParentId": "362991b4-4563-4c06-a282-dc71ee3dd631",
                 "position": "absolute",
-                "edgeOffsets": 505
+                "edgeOffsets": 541
             },
             "children": [],
             "id": "6ee426bd-9edd-4bdf-a9b2-cad8cb1ca297",
@@ -365,9 +530,9 @@
                 "Width": 315,
                 "Visible": true,
                 "X": 38,
-                "Y": 397,
+                "Y": 434,
                 "RelativeX": 38,
-                "RelativeY": 397,
+                "RelativeY": 434,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -410,7 +575,7 @@
                 },
                 "ParentId": "362991b4-4563-4c06-a282-dc71ee3dd631",
                 "position": "absolute",
-                "edgeOffsets": 397,
+                "edgeOffsets": 434,
                 "children": "Login With",
                 "FontWeight": "bold"
             },
@@ -433,9 +598,9 @@
                 "Width": 300,
                 "Visible": true,
                 "X": 40,
-                "Y": 437,
+                "Y": 478,
                 "RelativeX": 40,
-                "RelativeY": 437,
+                "RelativeY": 478,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -466,7 +631,7 @@
                 "Disabled": false,
                 "ParentId": "362991b4-4563-4c06-a282-dc71ee3dd631",
                 "position": "absolute",
-                "edgeOffsets": 437
+                "edgeOffsets": 478.00000000000006
             },
             "children": [],
             "id": "cd704844-bc16-4738-bb9e-77e2a1ea2883",
@@ -483,13 +648,13 @@
                 "Font": "",
                 "CustomFont": "",
                 "BackgroundColor": "rgba(0, 0, 0, 0)",
-                "Height": 26,
-                "Width": 151,
+                "Height": 54,
+                "Width": 82,
                 "Visible": true,
-                "X": 112,
-                "Y": 333,
-                "RelativeX": 112,
-                "RelativeY": 333,
+                "X": 286,
+                "Y": 272,
+                "RelativeX": 286,
+                "RelativeY": 272,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -520,12 +685,12 @@
                 "Disabled": false,
                 "ParentId": "362991b4-4563-4c06-a282-dc71ee3dd631",
                 "position": "absolute",
-                "edgeOffsets": 333
+                "edgeOffsets": 272
             },
             "children": [],
             "id": "afab7952-5829-48d4-8a1a-41d83def826b",
             "thunkableVersion": 447,
-            "name": "Login_Forgot_Password"
+            "name": "Login_Forgot_PasswordButton"
         },
         {
             "type": "TextInput",
@@ -591,7 +756,7 @@
             "children": [],
             "id": "a53d4c87-2986-4114-a1bc-42df100f5693",
             "thunkableVersion": 447,
-            "name": "Text_Input2"
+            "name": "loginPassTextInput"
         },
         {
             "type": "TextInput",
@@ -654,12 +819,14 @@
                 "placeholder": "Email",
                 "KeyboardType": "email-address",
                 "keyboardType": "email-address",
-                "autoFocus": false
+                "autoFocus": false,
+                "Text": "",
+                "defaultValue": ""
             },
             "children": [],
             "id": "f8a428e8-ac96-4ef9-bfcf-1b2366fdf94e",
             "thunkableVersion": 447,
-            "name": "Text_Input1"
+            "name": "loginEmailTextInput"
         },
         {
             "type": "Button",
@@ -713,7 +880,7 @@
             "children": [],
             "id": "cee7acf3-d4cc-49de-bee3-d7070c4e47e7",
             "thunkableVersion": 447,
-            "name": "Log_in_screen_login"
+            "name": "Log_in_screen_loginButton"
         },
         {
             "type": "Label",
