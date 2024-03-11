@@ -21,8 +21,8 @@
                     "createdAt": "2024-03-09T21:56:13.079Z",
                     "updatedAt": "2024-03-09T21:56:13.079Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65ecdafc8f37ead5bb0f17c8?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240309%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240309T215613Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=bcd90de2657ecc1e729e922834c0dc271aa5c116d9a2ec2d552c7bb60807863583a98a0f9ddaf681e9b2768585a7d96d61404d080c6aec1f843413211b41bcf8d963bcc41adb6877c2e149811205f88e71c0c620089ea212d9e3de66e06518acdaf05146d4ab4b3b1c34f456e934454996363c41cc0bb80c172acddb5a4fae3d4d2e0fc8de90bcc1089c46c0c36c3041c329771ebba8202f7dc962977fc1f98b13d8091eb8951b76df08a7d100b2e75218dce631885929e88687de35a23927d6f168d8ae7514036a84bb87485fb90c598c827b77663aaf88f2f97d97715a0ce11fdf359d41db9a8b57f6967d5f07eee11563a7ae9e055951198d506b44d49e94",
-                    "signedUrlExpirationTime": 1710194173106
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65ecdafc8f37ead5bb0f17c8?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240311%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240311T192311Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8478ee56d4f55ffc387a4b2d8591ec25c792664fbba730c09dca6d213a158bb451984ca76339dc238ac4632cbdb03b102534161768f892317a2d0971ee41fe88e89ac35c7dc9c79cf8e6702cc2df828aebfcfb4debcb3b42d7c08e25d5bdaf8fb34963cccf8d99c58293e78213e38fbdc0249fc62458ca84075262a02c57cf2828f2eef2cb85b4df52b59b464c6509ee875b86229dd5bd0d9ec3274fe92fbbbc7571554371e93a4ed0540dbcac9a20fdfb1eebc5ab85cddf871e23b05d868ae4d4445f34ba9cf9e7d32dc2dac5638a2deedfab5e6bd550f461c7c2d1c1898411e97a63e2edd2ea2f1353333a8da01ff0b6af6d9c4cc37f995c325aa7620c6b5d",
+                    "signedUrlExpirationTime": 1710357791970
                 },
                 "65ed461689e54f7dfe8d4585": {
                     "externalStorageType": "GCS",
@@ -37,8 +37,8 @@
                     "createdAt": "2024-03-10T05:33:10.246Z",
                     "updatedAt": "2024-03-10T05:33:10.246Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65ed461689e54f7dfe8d4585?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240310%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240310T053310Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=56ae553de826a9da27ea577ae6ca0e6aac161e7410047e8309625165ee60c54e8db859ad607650f998928542caa29ebd6bf92412ef908ff4d36383c8702ba6fab5416bb6db1ce5231fe074770336289befcbbbf885288a78e820e10bcb6fe35620d50845683f3e48688ec47a3c3ddaea479dd38b54d9cc5011cf9abc0be6fbac4cc375877e01ef78f62c9a44ae35e81ea02792f95f88c81be4aa3e50147a6ad9e0c2ebe78e9eed090fd9866bf86a7c6e3920d5f7c5dc36b227b4336c43d7246edb38b31d2a7d42e089a23ed319406d368ea36ee1d62796d8f2f2e4206a768b3ea916b4b28aa616f1cae0eb09652056307bc4281c4347308cd5db758cfe06bed4",
-                    "signedUrlExpirationTime": 1710221590271
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65ed461689e54f7dfe8d4585?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240311%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240311T192311Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=8791b4dc7a1d2394bcd8e668ce43e4b791cb4ab1fcefcefd1a764a29118effa5a4614a3fee137eaab94de84843c14f5772ce024f75518120c674038edb16f92e5e458ac882db054e1b1c1f9d7c707cd2239344a8f652a4d6cd86dcdff5da3444342e3612a51ee8c1fd4d62078a168b71aba37e6bbe549f66096d0a10ba8dab1f0af1990f050feb19ed6715c7c064bfa97ba49b97f1d7b5b1edcc9cad5ce9a33d8978bdbe58005dd53e84049ad37bbe7891ee340fe3a8499a943e068d228f184d76031cf783f52a7018ffba47bc2aed22c0292d3e9d40b73da2998fcadf12e5d335b9c553d76984bc68fd72d6ec8ab5e6add752e45b9c1daa5577355fdc14d2d5",
+                    "signedUrlExpirationTime": 1710357791974
                 }
             },
             "backendUpgradeVersion": 24,
@@ -86,6 +86,17 @@
                         "location": true,
                         "iap": false
                     }
+                },
+                "202e51b6-1a79-4f03-a431-b3432cba195e": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -107,6 +118,9 @@
                     },
                     {
                         "id": "3574da1c-64ca-4d29-9b87-30b0c66ca8c7"
+                    },
+                    {
+                        "id": "202e51b6-1a79-4f03-a431-b3432cba195e"
                     }
                 ]
             },
@@ -116,7 +130,7 @@
             "projectName": "Fitness Rivals Wireframes",
             "settings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "FitnessRivals",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -125,8 +139,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyD29Fr4nCY3wEzuPtJ8DxzfcKCyixg4cAM",
+                "firebaseDatabaseURL": "https://csc305team16-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -160,7 +174,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "FitnessRivals",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -169,8 +183,8 @@
                 "androidVersionCode": 1,
                 "iosVersionNumber": "1",
                 "iosBuildNumber": "1",
-                "firebaseAPIKey": null,
-                "firebaseDatabaseURL": null,
+                "firebaseAPIKey": "AIzaSyD29Fr4nCY3wEzuPtJ8DxzfcKCyixg4cAM",
+                "firebaseDatabaseURL": "https://csc305team16-default-rtdb.firebaseio.com/",
                 "stripePublishableKeyTest": null,
                 "stripePublishableKeyLive": null,
                 "stripeAccountId": null,
@@ -214,7 +228,28 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "f51aec9d-8059-411f-91c2-632fdd24f7cd": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "362991b4-4563-4c06-a282-dc71ee3dd631"
+                },
+                "351675f7-18ea-4042-acd0-df0d3adf51a5": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "362991b4-4563-4c06-a282-dc71ee3dd631"
+                },
+                "bd665786-dc98-4055-b1dd-88ab096c000a": {
+                    "scope": "APP",
+                    "name": "sessionEmail",
+                    "screenId": "362991b4-4563-4c06-a282-dc71ee3dd631"
+                },
+                "e57a164c-c6f3-465a-a981-6b0ce8a8282d": {
+                    "scope": "APP",
+                    "name": "userID",
+                    "screenId": "362991b4-4563-4c06-a282-dc71ee3dd631"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,

@@ -107,7 +107,7 @@
             "children": [],
             "id": "019509c3-685d-4a2b-b0b1-8eb9c6aeeb4a",
             "thunkableVersion": 447,
-            "name": "welcome_login"
+            "name": "welcome_loginButton"
         },
         {
             "type": "Button",
