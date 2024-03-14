@@ -71,10 +71,10 @@
                 "Height": 45,
                 "Width": 311,
                 "Visible": true,
-                "X": 29,
-                "Y": 380,
-                "RelativeX": 29,
-                "RelativeY": 380,
+                "X": 43,
+                "Y": 383,
+                "RelativeX": 43,
+                "RelativeY": 383,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -115,7 +115,7 @@
                 },
                 "ParentId": "362991b4-4563-4c06-a282-dc71ee3dd631",
                 "position": "absolute",
-                "edgeOffsets": 380,
+                "edgeOffsets": 383,
                 "children": ""
             },
             "children": [],
@@ -458,7 +458,7 @@
             "children": [],
             "id": "04bb3a9b-6932-4198-b6ba-fb5decddca17",
             "thunkableVersion": 447,
-            "name": "Button7"
+            "name": "Facebook_login"
         },
         {
             "type": "Button",
@@ -512,7 +512,7 @@
             "children": [],
             "id": "6ee426bd-9edd-4bdf-a9b2-cad8cb1ca297",
             "thunkableVersion": 447,
-            "name": "Button6"
+            "name": "Apple_Login"
         },
         {
             "type": "Label",
@@ -636,7 +636,7 @@
             "children": [],
             "id": "cd704844-bc16-4738-bb9e-77e2a1ea2883",
             "thunkableVersion": 447,
-            "name": "Button5"
+            "name": "Google_Login"
         },
         {
             "type": "Button",
