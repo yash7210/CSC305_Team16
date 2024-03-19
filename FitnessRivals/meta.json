@@ -83,6 +83,22 @@
                     "__v": 0,
                     "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65f85f086bf46fafdc0b727a?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240318%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240318T153432Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=502222c6aa6ba0f2098ddde9d15ae5efe5f329686652a90566e8f965e31e2c93d0c139298bd37639d5a39ab60118fcd622583939dc03fd3c43158d9afb341d38f7dd924a2fc032645f2534c6b7a3b36aa8b1127d06c78219b1e1aed2fd5b73c5ec0caf8303a11b3587bf37e1919cf4b14c64c7289a49b33387c8422df1504c330efc6ae032a9f6e5348c0bf8b8c62a1c40974eab41f1f924396c499b6996a7f4e702610f36ffbbe5897cb66f31526f7547717282d2e039e231eacd4d659c449edc5efbe446f25ea437c64f74467146471fe017d4a69944e46b92d3b619a35848634fe0751f2d80934df621804dc1a3903e2f72e035369aa9bbcb1f07ace772ed",
                     "signedUrlExpirationTime": 1710948872954
+                },
+                "65f8c7904904614c5984f382": {
+                    "externalStorageType": "GCS",
+                    "_id": "65f8c7904904614c5984f382",
+                    "size": "2872",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "default_profile_400x400.png",
+                    "backendURI": "/project/65ecd9726ee0575828ca172a/getasset/65f8c7904904614c5984f382",
+                    "name": "default_profile_400x400.png",
+                    "externalName": "users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65f8c7904904614c5984f382",
+                    "createdAt": "2024-03-18T23:00:32.390Z",
+                    "updatedAt": "2024-03-18T23:00:32.390Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65aea322bdfbccb613c6dcb4/projects/65ecd9726ee0575828ca172a/assets/65f8c7904904614c5984f382?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240318%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240318T230032Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a95c69e367f79213a475df418c3447d6ab11c5ea18f6cd7e3feb6d1fb44c87a634a4c29cd147abc548022eddc6da234fbc6e38347ea354576fb64f388920de59e991df3de6015bba45cd884981140fedba660df7470a44211110806be4f80e0557bdbdb601ae2966ca8e396be259f1a370716dc9ebb79ebad6e0b9a1908c7d39749e7bde7fa23c281c1c66b743c9ce4ae7271d5811544f7837d9ec7135f4c75b7425c872b8a31657e15bc16643c5bd170c9ad4a3cea075430d59b0fb33eec5f8db507b7b5c45ceee760e03ac151a08fdae88449d1b0f2a2453f50b99c54cf10a5844400f1c37ee423e129093038151ec30bdc1041c32a12a90e8b36672cf1087",
+                    "signedUrlExpirationTime": 1710975632423
                 }
             },
             "backendUpgradeVersion": 24,
@@ -123,8 +139,16 @@
                 "b82792bc-4ecc-4202-bf25-b5330ea32b91": {
                     "xml": "",
                     "permissions": {
-                        "android": [],
-                        "ios": []
+                        "android": [
+                            "android.permission.CAMERA"
+                        ],
+                        "ios": [
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
+                            }
+                        ]
                     },
                     "enabledFeatures": {
                         "location": true,
@@ -142,7 +166,28 @@
                         "iap": false
                     }
                 },
-                "3574da1c-64ca-4d29-9b87-30b0c66ca8c7": {}
+                "3574da1c-64ca-4d29-9b87-30b0c66ca8c7": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                },
+                "d9ba9376-9e5c-4d57-8a52-dae16d8dcbdf": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                }
             },
             "categories": [
                 "Health & Fitness"
@@ -157,6 +202,9 @@
                     },
                     {
                         "id": "18d74d05-2aff-4db8-b8b4-8e8bbd30e26f"
+                    },
+                    {
+                        "id": "d9ba9376-9e5c-4d57-8a52-dae16d8dcbdf"
                     },
                     {
                         "id": "b82792bc-4ecc-4202-bf25-b5330ea32b91"
@@ -203,7 +251,9 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -247,7 +297,9 @@
                 "cloudinaryAPIKey": null,
                 "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {}
+                    "ios": {
+                        "usageDescriptions": {}
+                    }
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
