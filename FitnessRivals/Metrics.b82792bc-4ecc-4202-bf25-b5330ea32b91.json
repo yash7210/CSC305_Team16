@@ -54,8 +54,7 @@
             "headerStyle": {}
         },
         "tabNavigationOptions": {},
-        "BackgroundColor": "rgba(129, 254, 201, 1)",
-        "Scrollable": false
+        "BackgroundColor": "rgba(129, 254, 201, 1)"
     },
     "children": [
         {
