@@ -1,4 +1,5 @@
 {
+    "id": "d9ba9376-9e5c-4d57-8a52-dae16d8dcbdf",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -566,7 +567,7 @@
             "children": [],
             "id": "15d397cd-639b-494a-b22e-42fd140f44f0",
             "thunkableVersion": 448,
-            "name": "Image"
+            "name": "ProfileImage"
         },
         {
             "type": "Label",
@@ -637,7 +638,6 @@
             "name": "Label23"
         }
     ],
-    "id": "d9ba9376-9e5c-4d57-8a52-dae16d8dcbdf",
     "thunkableVersion": 448,
     "name": "Profile"
 }

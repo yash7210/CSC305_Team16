@@ -294,13 +294,13 @@
             "properties": {
                 "Picture": "DALL\u00c2\u00b7E 2024-03-10 00.28.04 - Revise the logo for the app FitnessRivals, ensuring the background color matches exactly the near mint green, hex #24DE9B. Incorporate the text 'Fitne.png",
                 "resizeMode": "stretch",
-                "Height": 134,
-                "Width": 142,
+                "Height": 136,
+                "Width": 144,
                 "Visible": true,
                 "X": 114,
-                "Y": 0,
+                "Y": 0.6666666865348816,
                 "RelativeX": 114,
-                "RelativeY": 0,
+                "RelativeY": 0.6666666865348816,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -327,7 +327,7 @@
                 "capInsets": {},
                 "ParentId": "18d74d05-2aff-4db8-b8b4-8e8bbd30e26f",
                 "position": "absolute",
-                "edgeOffsets": 0
+                "edgeOffsets": 0.6666666865348816
             },
             "children": [],
             "id": "8f989c71-8606-468f-94d1-7e6decb32b6c",
