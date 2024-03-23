@@ -567,7 +567,7 @@
             "children": [],
             "id": "15d397cd-639b-494a-b22e-42fd140f44f0",
             "thunkableVersion": 448,
-            "name": "ProfileImage"
+            "name": "Image"
         },
         {
             "type": "Label",
