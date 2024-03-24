@@ -1,6 +1,8 @@
 ### [Heart Framework](https://docs.google.com/presentation/d/1fdXlihNzZi-2fniiHWL7yIMDTZ40Lplni75lV9GFX2k/edit?usp=sharing)
 
-- Metric 1:
+- Metric 1: Net Promoter Score
+    We will place a screen after our user feed or workout screen asking the user how likely they are to recommend our app to a friend on a scale of 1-10. People who give a rating of 1-6 will be considered detractors, rating 7-8 will be considered passives and 9-10 will be our promoters. Subtracting the percentage of promoters from the percentage of detractors gives the NPS. Ideally we want to cater our user experience with the app to give a high NPS. 
+
 - Metric 2 Adoption:
     We will utilize Firebase to collect relevant data and implement blocks within the app to track user interactions. Here's how we plan to do it:
 
