@@ -48,9 +48,25 @@ Hypothesis:
 Experiment:
 Variations:
 
-A/B Test Name:
-User Story Number:
-Metric (from the HEART grid):
-Hypothesis:
-Experiment:
-Variations:
+User Story Number: 2
+Metric (from the HEART grid): Engagement
+
+Hypothesis: Changing the UI theme from light mode to dark mode (or vice versa), or altering the layout of buttons within the app, can increase user engagement. This is based on the assumption that visual comfort and ease of navigation have a significant impact on how users interact with the app. For instance, users might find dark mode less straining on the eyes in low-light conditions, leading to longer usage periods. Similarly, a more intuitive button layout could streamline user interactions, reducing frustration and potentially increasing the frequency and duration of app usage.
+
+Experiment: Audience Selection: For this experiment, we'll allocate 50% of our user base to each variation. This ensures a significant sample size for both variations, providing reliable data while still exposing a large portion of our users to the potential improvements.
+A 50/50 split allows for a direct comparison between the two variations with a balanced distribution of any external factors that might influence engagement.
+
+Tracking with Firebase Analytics:
+
+User Engagement Metrics: We'll track session length, number of sessions per user, and interactions per session as primary indicators of engagement.
+Specific Interactions: For the button layout test, we'll also track click-through rates on the modified buttons and navigation paths to determine if the new layout is more intuitive.
+Dark/Light Mode Preference: Track user switches between dark and light modes, if applicable, to see if there's a clear preference or if the option influences engagement time.
+
+
+User Grouping: Use Firebase Remote Config to assign users randomly to either the control group or the experiment group.
+Event Tracking: Implement custom events in Firebase Analytics for each key action you want to track, such as "switch_theme" for users changing between light and dark mode, or "button_click" with parameters to identify specific buttons.
+Variations: Dark Mode vs. Light Mode: One group of users will experience the app in dark mode, while another group uses the traditional light mode. This tests the hypothesis that visual comfort affects engagement.
+Which variation resulted in longer session times or more frequent app usage?
+Is there a significant preference for either dark or light mode, based on user switches or engagement metrics?
+Based on these findings, you can make informed decisions on implementing these UI/UX changes across your app to enhance overall user engagement
+
