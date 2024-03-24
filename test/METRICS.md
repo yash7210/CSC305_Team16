@@ -12,7 +12,9 @@
 
     This data will enable us to assess how effectively we're onboarding new users and engaging them with key features such as the leaderboard and social feed.
 
-- Metric 3: 
+- Metric 3 DAU:
+  The Daily Active Users can be collected through the Firebase analytics page. In the Authentication tab, it tracks how many daily active users we have in our application in order to gauge how much the app is being used. There is also an Analytics Dashboard that records the number of users and the user activity. Towards the bottom of the Analytics Dashboard, it also records the average engagement time of users and average engagement time per user session. This can be used to track how long users use the app on average.
+  
 - Metric 4 Retention:
   User Retention can be found within the Firebase Analytics page. Our team will use this exact measurement to determine user retention as other methods would prove
 time consuming and useless considering the time constraints of the project. We have set a goal of a 30% user retention rate, encouraging users to return to our app by providing an experience that lives up to our golden path of a social workout platform where friends can compete with one another. The leagues within our app will be the primary form of this competition, a unique part of our app that can not be found elsewhere and will encourage a higher user retention rate.
