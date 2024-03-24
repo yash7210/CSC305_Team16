@@ -87,8 +87,8 @@ Test A (Control): Display all user workouts on a single screen without detailed 
 Test B (Variant): Display workouts on a separate screen, providing additional details such as difficulty level, required equipment, and instructions. Utilize tab or toggle list design to make the information more accessible and organized.
 
 Design Mockup for Test A:
-<img src= "src/TestA.png">
+<img src= "src/TestA.png"/>
 
 Design Mockup for Test B:
-<img src= "src/TestB1.png">
-<img src= "src/TestB2.png">
+<img src= "src/TestB1.png"/>
+<img src= "src/TestB2.png"/>
