@@ -13,5 +13,8 @@
     This data will enable us to assess how effectively we're onboarding new users and engaging them with key features such as the leaderboard and social feed.
 
 - Metric 3: 
-- Metric 4:
+- Metric 4 Retention:
+  User Retention can be found within the Firebase Analytics page. Our team will use this exact measurement to determine user retention as other methods would prove
+time consuming and useless considering the time constraints of the project. We have set a goal of a 30% user retention rate, encouraging users to return to our app by providing an experience that lives up to our golden path of a social workout platform where friends can compete with one another. The leagues within our app will be the primary form of this competition, a unique part of our app that can not be found elsewhere and will encourage a higher user retention rate.
+  
 - Metric 5: 
