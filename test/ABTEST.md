@@ -70,3 +70,25 @@ Which variation resulted in longer session times or more frequent app usage?
 Is there a significant preference for either dark or light mode, based on user switches or engagement metrics?
 Based on these findings, you can make informed decisions on implementing these UI/UX changes across your app to enhance overall user engagement
 
+# A/B Test Name: Workout Screen Layout
+
+User Story Number: US5 Provide Workouts with API
+
+Metric (from the HEART grid): Engagement 
+
+Hypothesis: By organizing workout information into a more structured format and providing additional details such as difficulty level, required equipment, and instructions on a separate screen, users will find it easier to discover and engage with workouts, leading to improved user engagement.
+
+Experiment Setup:
+We will allocate 50% of our user base to each variation, ensuring a balanced representation of users across both Test A and Test B. This will allow us to see how each group engages with the workout screens. We will track the engagement metrics of both groups by tracking the time spent on each workout page and recording the number of workouts viewed per session. Hypothetically both of these could be tracked using the Firebase A/B Testing feature to understand which layout our users prefer. 
+
+Variations:
+Test A (Control): Display all user workouts on a single screen without detailed information.
+
+Test B (Variant): Display workouts on a separate screen, providing additional details such as difficulty level, required equipment, and instructions. Utilize tab or toggle list design to make the information more accessible and organized.
+
+Design Mockup for Test A:
+<img src = "src/TestA.png">
+
+Design Mockup for Test B:
+<img src = "src/TestB1.png">
+<img src = "src/TestB2.png">
