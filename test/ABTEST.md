@@ -1,4 +1,4 @@
-#A/B Test Name: Onboarding Flow Optimization
+# A/B Test Name: Onboarding Flow Optimization
 
 #User Story Number: US1
 
@@ -27,21 +27,28 @@ Rationale: By testing variations of the onboarding flow, we can determine which 
 This A/B test aims to directly address the Adoption metric by optimizing the onboarding experience to encourage more users to sign up for and engage with the FitnessRivals App.
 
 
-A/B Test Name:
+# A/B Test Name: User Feed Engagement Test
+
+User Story Number: US1
+
+Metric (from the HEART grid): User Retention
+
+Hypothesis: By personalizing the user feed with social competition updates, such as friends' workout achievements and leaderboard positions, we expect to increase user engagement and improve user retention.
+
+Experiment: The control group (A) will continue to see the regular user feed without personalized social competition updates. The treatment group (B) will have their user feed personalized with social competition updates, including friends' workout achievements and leaderboard positions. To measure the user retention of both groups, we will use google firebase analytics which provides a user retention rate. After a specified period of time, the two scores will be adjusted and the outcome of A or B will be chosen accordingly.
+
+Variations:
+- Control Group (A): Users see the regular user feed without personalized social competition updates.
+- Treatment Group (B): Users see a personalized user feed with social competition updates, including friends' workout achievements and leaderboard positions.
+
+# A/B Test Name:
 User Story Number:
 Metric (from the HEART grid):
 Hypothesis:
 Experiment:
 Variations:
 
-A/B Test Name:
-User Story Number:
-Metric (from the HEART grid):
-Hypothesis:
-Experiment:
-Variations:
-
-A/B Test Name:
+# A/B Test Name:
 User Story Number:
 Metric (from the HEART grid):
 Hypothesis:
