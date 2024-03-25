@@ -41,12 +41,21 @@ Variations:
 - Control Group (A): Users see the regular user feed without personalized social competition updates.
 - Treatment Group (B): Users see a personalized user feed with social competition updates, including friends' workout achievements and leaderboard positions.
 
-# A/B Test Name:
-User Story Number:
-Metric (from the HEART grid):
-Hypothesis:
-Experiment:
+
+# A/B Test Name: Muscle Workout VS Workout Type
+
+User Story Number: US5
+
+Metric (from the HEART grid): Engagement
+
+Hypothesis: Having users select workouts based on muscle area versus type of workout may increase user engagement. Since users may be used to organizing their workouts based on muscle area, instead of organizing by types of workouts, they would be more inclined to use the app to record their workouts since it is familiar to them.
+
+Experiment: There will be two groups made out of the total users of the application, split evenly in half. One group will have access to a workout selection based on muscle areas (arms, abs, legs, etc.) in order to record their workouts. The other group will be given access to a workout selection based on workout types (cardio, strength, endurance, etc.) in order to record their workouts. This experiment is intended to figure out what workout selection would work best for the users of the app in order to promote engagement and future use of the app. With Firebase Analytics, we can track which group engages with the app more, and which group has longer engagement time. Using the Real Time Analytics and Analytics Dashboard, the amount of users and time on the app by the users can be tracked and compared.
+
 Variations:
+- Group A (Control Group): When looking to select a workout, the drop down menu will display workout categories based on muscle areas before then giving the user corresponding workout options based on their selection. 
+- Group B (Variant Group): When looking to select a workout, the drop down menu will display workout categories based on workout types before then giving the user corresponding workout options based on their selection. 
+
 
 # A/B Test Name:
 User Story Number:
