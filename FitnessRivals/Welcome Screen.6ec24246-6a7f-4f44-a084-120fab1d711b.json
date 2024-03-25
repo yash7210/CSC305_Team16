@@ -173,9 +173,9 @@
                 "Width": 377,
                 "Visible": true,
                 "X": 0,
-                "Y": 39,
+                "Y": 38,
                 "RelativeX": 0,
-                "RelativeY": 39,
+                "RelativeY": 38,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -202,7 +202,7 @@
                 "capInsets": {},
                 "ParentId": "6ec24246-6a7f-4f44-a084-120fab1d711b",
                 "position": "absolute",
-                "edgeOffsets": 39.99999999999999
+                "edgeOffsets": 38
             },
             "children": [],
             "id": "51ce6246-d99e-41c0-bbb5-c5fea51fe398",
