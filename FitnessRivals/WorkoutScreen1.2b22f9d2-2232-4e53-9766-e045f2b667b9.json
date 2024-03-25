@@ -1,4 +1,5 @@
 {
+    "id": "2b22f9d2-2232-4e53-9766-e045f2b667b9",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -174,7 +175,6 @@
             "name": "Label31"
         }
     ],
-    "id": "2b22f9d2-2232-4e53-9766-e045f2b667b9",
     "thunkableVersion": 450,
     "name": "WorkoutScreen1"
 }
