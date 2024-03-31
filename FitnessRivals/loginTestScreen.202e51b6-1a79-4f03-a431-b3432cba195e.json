@@ -1,4 +1,5 @@
 {
+    "id": "202e51b6-1a79-4f03-a431-b3432cba195e",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -109,7 +110,6 @@
             "name": "buttonTest"
         }
     ],
-    "id": "202e51b6-1a79-4f03-a431-b3432cba195e",
     "thunkableVersion": 447,
     "name": "loginTestScreen"
 }
