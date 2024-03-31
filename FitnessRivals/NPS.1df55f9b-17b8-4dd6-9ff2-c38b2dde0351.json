@@ -1,4 +1,5 @@
 {
+    "id": "1df55f9b-17b8-4dd6-9ff2-c38b2dde0351",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -363,7 +364,6 @@
             "name": "Label34"
         }
     ],
-    "id": "1df55f9b-17b8-4dd6-9ff2-c38b2dde0351",
     "thunkableVersion": 450,
     "name": "NPS"
 }
