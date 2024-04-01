@@ -688,6 +688,16 @@
                     "scope": "STORED",
                     "name": "workout-ctr",
                     "screenId": "2b22f9d2-2232-4e53-9766-e045f2b667b9"
+                },
+                "45dce41c-988f-4c08-bf7d-c14275be6f49": {
+                    "scope": "APP",
+                    "name": "idString",
+                    "screenId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4"
+                },
+                "c377171d-c807-4570-aa8a-2db26ba966a8": {
+                    "scope": "APP",
+                    "name": "feed_text",
+                    "screenId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4"
                 }
             },
             "defaultDesignerDevice": "PHONE",
