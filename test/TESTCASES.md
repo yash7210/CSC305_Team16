@@ -4,6 +4,6 @@
 
 ### US3: Backend Management
 
-### US4: {Golden Path Description}
+### [US4: Leaderboard and Profile Page](https://docs.google.com/presentation/d/1_S9DfH9pai8y7cU1zxM_0QRoHiCl5gUEzBS27jJITks/edit?usp=sharing)
 
 ### US5: ... 
