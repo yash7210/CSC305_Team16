@@ -59,7 +59,7 @@
             "type": "Button",
             "translatedName": "Button",
             "properties": {
-                "Text": "back to login screen",
+                "Text": "Sign Out",
                 "TextColor": "#FFFFFF",
                 "FontSize": 16,
                 "Font": "",

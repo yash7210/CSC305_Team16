@@ -250,9 +250,9 @@
             "translatedName": "Slider",
             "reactType": "Slider",
             "properties": {
-                "minimumValue": 0,
+                "minimumValue": 1,
                 "maximumValue": 10,
-                "value": 0,
+                "value": 1,
                 "step": 1,
                 "Height": 30,
                 "Width": 316,

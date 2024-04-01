@@ -52,9 +52,64 @@
         "navigationOptions": {
             "headerStyle": {}
         },
-        "tabNavigationOptions": {}
+        "tabNavigationOptions": {},
+        "Scrollable": true
     },
     "children": [
+        {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "<",
+                "TextColor": "rgba(74, 74, 74, 1)",
+                "FontSize": 33,
+                "Font": "",
+                "CustomFont": "",
+                "BackgroundColor": "rgba(0, 0, 0, 0)",
+                "Height": 50,
+                "Width": 50,
+                "Visible": true,
+                "X": 0,
+                "Y": 0,
+                "RelativeX": 0,
+                "RelativeY": 0,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 15,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "3.3333333333333335%",
+                    "top": "0%",
+                    "display": "flex"
+                },
+                "FontBold": true,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "2b22f9d2-2232-4e53-9766-e045f2b667b9",
+                "position": "absolute",
+                "edgeOffsets": 0
+            },
+            "children": [],
+            "id": "3ab2d079-2ed2-40b2-a0dc-417a5e14917f",
+            "thunkableVersion": 450,
+            "name": "Button4"
+        },
         {
             "type": "List Viewer",
             "translatedName": "Simple List",
