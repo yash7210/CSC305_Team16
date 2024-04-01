@@ -6,4 +6,4 @@
 
 ### [US4: Leaderboard and Profile Page](https://docs.google.com/presentation/d/1_S9DfH9pai8y7cU1zxM_0QRoHiCl5gUEzBS27jJITks/edit?usp=sharing)
 
-### US5: ... 
+### [US7: User Feed](https://docs.google.com/presentation/d/16IKc7ArK5iZQ2mKNjp588rjrtJE6P7VNxWekwNrTFjQ/edit?usp=sharing)
