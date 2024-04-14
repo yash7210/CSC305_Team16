@@ -60,19 +60,19 @@
             "translatedName": "Label",
             "reactType": "Text",
             "properties": {
-                "Text": "",
+                "Text": "Label",
                 "FontSize": 18,
                 "Font": "",
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(0, 0, 0, 1)",
-                "Height": 285,
-                "Width": 276,
-                "Visible": true,
-                "X": 41,
-                "Y": 202,
-                "RelativeX": 41,
-                "RelativeY": 202,
+                "Height": 233,
+                "Width": 314,
+                "Visible": false,
+                "X": 24,
+                "Y": 286,
+                "RelativeX": 24,
+                "RelativeY": 286,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "color": "rgba(0, 0, 0, 1)",
@@ -106,20 +106,20 @@
                         "height": 0
                     },
                     "position": "absolute",
-                    "left": "31.555550130208335%",
-                    "top": "47.24512743628186%",
+                    "left": "20.888883463541667%",
+                    "top": "41.60888305847077%",
                     "lineHeight": 1,
-                    "display": "flex"
+                    "display": "none"
                 },
                 "ParentId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4",
                 "position": "absolute",
-                "edgeOffsets": 202,
-                "children": ""
+                "edgeOffsets": 286,
+                "children": "Label"
             },
             "children": [],
-            "id": "838df6ae-4d0b-4a98-95cb-7077384523dd",
-            "thunkableVersion": 450,
-            "name": "feed_label"
+            "id": "5e965971-b090-457f-be1b-705332a76094",
+            "thunkableVersion": 452,
+            "name": "Label42"
         },
         {
             "type": "Button",
@@ -255,7 +255,7 @@
                 "ShowArrow": true,
                 "Height": 347,
                 "Width": 321,
-                "Visible": false,
+                "Visible": true,
                 "X": 25,
                 "Y": 212,
                 "RelativeX": 25,
@@ -283,7 +283,7 @@
                     "position": "absolute",
                     "left": "26.933329264322918%",
                     "top": "40.14867871240161%",
-                    "display": "none",
+                    "display": "flex",
                     "justifyContent": "center",
                     "alignItems": "center"
                 },
