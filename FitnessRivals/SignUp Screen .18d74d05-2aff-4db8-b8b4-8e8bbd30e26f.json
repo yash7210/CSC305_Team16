@@ -280,7 +280,7 @@
                 "CustomFont": "",
                 "LineHeight": 1,
                 "Color": "rgba(0, 0, 0, 1)",
-                "BackgroundColor": "rgba(112, 247, 187, 1)",
+                "BackgroundColor": "rgba(129, 254, 201, 1)",
                 "Height": 366,
                 "Width": 383,
                 "Visible": true,
@@ -325,7 +325,7 @@
                     "top": "5.516772863568216%",
                     "lineHeight": 1,
                     "display": "flex",
-                    "backgroundColor": "rgba(112, 247, 187, 1)"
+                    "backgroundColor": "rgba(129, 254, 201, 1)"
                 },
                 "ParentId": "18d74d05-2aff-4db8-b8b4-8e8bbd30e26f",
                 "position": "absolute",
