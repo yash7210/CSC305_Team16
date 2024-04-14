@@ -56,6 +56,61 @@
     },
     "children": [
         {
+            "type": "Button",
+            "translatedName": "Button",
+            "properties": {
+                "Text": "<",
+                "TextColor": "rgba(74, 74, 74, 1)",
+                "FontSize": 33,
+                "Font": "",
+                "CustomFont": "",
+                "BackgroundColor": "rgba(0, 0, 0, 0)",
+                "Height": 50,
+                "Width": 50,
+                "Visible": true,
+                "X": 0,
+                "Y": 0,
+                "RelativeX": 0,
+                "RelativeY": 0,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "borderRadius": 15,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "0%",
+                    "top": "0%",
+                    "display": "flex"
+                },
+                "FontBold": true,
+                "FontItalic": false,
+                "Raised": false,
+                "Disabled": false,
+                "ParentId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4",
+                "position": "absolute",
+                "edgeOffsets": 0
+            },
+            "children": [],
+            "id": "113f5a3d-9429-476b-85ef-52a18fe2b3cb",
+            "thunkableVersion": 452,
+            "bindings": null,
+            "name": "backButton"
+        },
+        {
             "type": "List Viewer",
             "translatedName": "Simple List",
             "reactType": "ListView",
@@ -112,7 +167,7 @@
             "type": "TextInput",
             "translatedName": "Text Input",
             "properties": {
-                "Hint": "Enter Friend",
+                "Hint": "Enter Friend ",
                 "CustomFont": "",
                 "Height": 40,
                 "Width": 266,
@@ -166,7 +221,7 @@
                 "ParentId": "6861acc0-ccea-40e1-b159-c0dfac9607a6",
                 "position": "absolute",
                 "edgeOffsets": 113.00000000000001,
-                "placeholder": "Enter Friend"
+                "placeholder": "Enter Friend "
             },
             "children": [],
             "id": "8d97425b-5156-40b5-909c-f55479076f12",
@@ -178,11 +233,11 @@
             "translatedName": "Button",
             "properties": {
                 "Text": "Add",
-                "TextColor": "#FFFFFF",
+                "TextColor": "rgba(0, 0, 0, 1)",
                 "FontSize": 16,
                 "Font": "",
                 "CustomFont": "",
-                "BackgroundColor": "rgba(93, 122, 252, 100)",
+                "BackgroundColor": "rgba(112, 247, 187, 1)",
                 "Height": 45,
                 "Width": 72,
                 "Visible": true,
