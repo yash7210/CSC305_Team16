@@ -1,12 +1,11 @@
 # CSC305 Team 16
 # Fitness Rivals
 
-Welcome to the Fitness Rivals, an engaging and competitive way to stay fit and healthy! Developed using Thunkable, our app is designed to make fitness fun by incorporating elements of competition and social interaction. Join leagues with your friends or create your own to compete in challenges based on steps taken or calories lost. Track your progress, climb up the leaderboard, and achieve your fitness goals together!
+Welcome to the Fitness Rivals, an engaging and competitive way to stay fit and healthy! Developed using Thunkable, our app is designed to make fitness fun by incorporating elements of competition and social interaction. Compete with other users with a global leaderboard for steps! Track your progress, climb up the leaderboard, and achieve your fitness goals together!
 
 ## Features
 
 - **User Profiles:** Create and customize your profile to start your fitness journey.
-- **League Creation:** Easily create or join a league to start competing with friends.
 - **Challenges:** Participate in step or calorie loss challenges and track your progress.
 - **Leaderboard:** Check the leaderboard to see how you rank against your friends and league members.
 - **Social Interaction:** Connect with friends, share your achievements, and stay motivated.
@@ -26,7 +25,6 @@ Welcome to the Fitness Rivals, an engaging and competitive way to stay fit and h
 To start using the app, follow these steps:
 1. Open the app on your device.
 2. Sign up or log in to your account.
-3. Join an existing league or create a new one.
 4. Start participating in challenges and tracking your progress!
 
 ## Contributing
