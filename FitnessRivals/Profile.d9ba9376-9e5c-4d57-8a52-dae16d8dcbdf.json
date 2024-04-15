@@ -122,9 +122,9 @@
                 "Height": 52,
                 "Width": 43,
                 "Visible": true,
-                "X": 11,
+                "X": 6,
                 "Y": 8,
-                "RelativeX": 11,
+                "RelativeX": 6,
                 "RelativeY": 8,
                 "ResizeMode": "STRETCH",
                 "style": {
@@ -177,10 +177,10 @@
                 "Height": 45,
                 "Width": 104,
                 "Visible": true,
-                "X": 174,
-                "Y": 603,
-                "RelativeX": 174,
-                "RelativeY": 603,
+                "X": 175,
+                "Y": 602,
+                "RelativeX": 175,
+                "RelativeY": 602,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -211,7 +211,7 @@
                 "Disabled": false,
                 "ParentId": "d9ba9376-9e5c-4d57-8a52-dae16d8dcbdf",
                 "position": "absolute",
-                "edgeOffsets": 603
+                "edgeOffsets": 602
             },
             "children": [],
             "id": "b4fd4d7d-6bed-46e0-9d95-2c8ba9ed4b8d",
