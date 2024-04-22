@@ -286,7 +286,18 @@
                         "iap": false
                     }
                 },
-                "65f86979c56bd2a078745e26": {}
+                "65f86979c56bd2a078745e26": {},
+                "b9aba543-0e6f-460c-b58a-1508a00dabf8": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
+                }
             },
             "categories": [
                 "Health & Fitness"
@@ -318,6 +329,9 @@
                         "id": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4"
                     },
                     {
+                        "id": "b9aba543-0e6f-460c-b58a-1508a00dabf8"
+                    },
+                    {
                         "id": "2b22f9d2-2232-4e53-9766-e045f2b667b9"
                     },
                     {
@@ -334,7 +348,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "F4-14 Upload",
+            "projectName": "F4-22",
             "settings": {
                 "teamId": null,
                 "appName": "FitnessRivals",
@@ -703,7 +717,7 @@
                 },
                 "9e564abd-2375-4449-9e11-8faaf25d5ed3": {
                     "scope": "APP",
-                    "name": "feed",
+                    "name": "proper_feed_list",
                     "screenId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4"
                 },
                 "fa4bf7f4-48f8-4ad4-bcbc-c9aed3dc3a4c": {
@@ -820,6 +834,46 @@
                     "scope": "APP",
                     "name": "popID",
                     "screenId": "6861acc0-ccea-40e1-b159-c0dfac9607a6"
+                },
+                "d1269082-6148-48ef-91e0-0f6a6c4e9740": {
+                    "scope": "STORED",
+                    "name": "feed-ctr",
+                    "screenId": "b9aba543-0e6f-460c-b58a-1508a00dabf8"
+                },
+                "af74c2c3-0bae-4c9d-b82e-97c68224291b": {
+                    "scope": "APP",
+                    "name": "j",
+                    "screenId": "b9aba543-0e6f-460c-b58a-1508a00dabf8"
+                },
+                "77ab8ca8-8250-4fe5-8efe-b1d9400baacc": {
+                    "scope": "APP",
+                    "name": "idString",
+                    "screenId": "b9aba543-0e6f-460c-b58a-1508a00dabf8"
+                },
+                "01bf6711-2192-4a25-915e-77a924307eb9": {
+                    "scope": "APP",
+                    "name": "feed_text",
+                    "screenId": "b9aba543-0e6f-460c-b58a-1508a00dabf8"
+                },
+                "240583c5-f92c-4e9d-8273-e74e20463c36": {
+                    "scope": "APP",
+                    "name": "feed",
+                    "screenId": "b9aba543-0e6f-460c-b58a-1508a00dabf8"
+                },
+                "9900be7d-cd2e-4744-ab5f-4b598b922a3b": {
+                    "scope": "APP",
+                    "name": "returningToFriend",
+                    "screenId": "b9aba543-0e6f-460c-b58a-1508a00dabf8"
+                },
+                "988fba92-360a-40fa-841b-92066e861544": {
+                    "scope": "APP",
+                    "name": "currentFriendId",
+                    "screenId": "6861acc0-ccea-40e1-b159-c0dfac9607a6"
+                },
+                "4449a8ee-d1f2-43ba-830a-43be955861cb": {
+                    "scope": "APP",
+                    "name": "clean_list",
+                    "screenId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4"
                 }
             },
             "defaultDesignerDevice": "PHONE",
