@@ -13,7 +13,7 @@ Welcome to the Fitness Rivals, an engaging and competitive way to stay fit and h
 - **Rewards:** Earn badges and rewards as you reach your fitness goals.
 
 ## Getting Started
-
+Google Fit is required to utilize the steps features and leaderboard.
 ### Prerequisites
 
 
