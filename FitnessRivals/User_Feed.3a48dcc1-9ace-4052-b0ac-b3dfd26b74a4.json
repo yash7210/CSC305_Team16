@@ -252,7 +252,7 @@
                 "TextItemsColor": "rgba(176, 176, 176, 1)",
                 "TextItemsBackgroundColor": "rgba(0,0,0,0)",
                 "TextItemsFontSize": 16,
-                "ShowArrow": false,
+                "ShowArrow": true,
                 "Height": 347,
                 "Width": 321,
                 "Visible": true,
@@ -454,7 +454,7 @@
                 "ParentId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4",
                 "position": "absolute",
                 "edgeOffsets": 4.999999999999999,
-                "Picture": "default_profile_400x400.png"
+                "Picture": "DALL\u00c2\u00b7E 2024-03-31 20.12.48 - Revise the logo for the app FitnessRivals, ensuring the background color matches exactly the near mint green, hex  24DE9B. Incorporate the text 'Fitne.jpg"
             },
             "children": [],
             "id": "e79c79f9-b306-4a30-b3d8-ac5d0d4bbbfb",
