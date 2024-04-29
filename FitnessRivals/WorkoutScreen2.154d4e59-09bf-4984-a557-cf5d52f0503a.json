@@ -124,9 +124,9 @@
                 "Height": 800,
                 "Width": 355,
                 "Visible": true,
-                "X": 9,
+                "X": 0,
                 "Y": 371,
-                "RelativeX": 9,
+                "RelativeX": 0,
                 "RelativeY": 371,
                 "ResizeMode": "STRETCH",
                 "style": {
