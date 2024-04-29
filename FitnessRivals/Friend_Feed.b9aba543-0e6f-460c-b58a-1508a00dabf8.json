@@ -1,4 +1,5 @@
 {
+    "id": "b9aba543-0e6f-460c-b58a-1508a00dabf8",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -334,7 +335,7 @@
                 "ParentId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4",
                 "position": "absolute",
                 "edgeOffsets": 4.999999999999999,
-                "Picture": "DALL\u00c2\u00b7E 2024-03-31 20.12.48 - Revise the logo for the app FitnessRivals, ensuring the background color matches exactly the near mint green, hex  24DE9B. Incorporate the text 'Fitne.jpg"
+                "Picture": "logo.png"
             },
             "children": [],
             "id": "91d17019-de46-4bbc-948f-a19c0ecfdddd",
@@ -411,7 +412,6 @@
             "name": "Label48"
         }
     ],
-    "id": "b9aba543-0e6f-460c-b58a-1508a00dabf8",
     "thunkableVersion": 453,
     "bindings": null,
     "name": "Friend_Feed"
