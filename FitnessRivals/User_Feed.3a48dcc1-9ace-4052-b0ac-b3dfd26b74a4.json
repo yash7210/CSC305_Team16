@@ -301,7 +301,7 @@
             "translatedName": "Button",
             "properties": {
                 "Text": "Post",
-                "TextColor": "#FFFFFF",
+                "TextColor": "rgba(0, 0, 0, 1)",
                 "FontSize": 16,
                 "Font": "",
                 "CustomFont": "",
@@ -337,7 +337,7 @@
                     "top": "21.55797406472545%",
                     "display": "flex"
                 },
-                "FontBold": false,
+                "FontBold": true,
                 "FontItalic": false,
                 "Raised": false,
                 "Disabled": false,

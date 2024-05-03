@@ -1280,7 +1280,7 @@
                     "top": "15.561750374812593%",
                     "display": "flex"
                 },
-                "FontBold": false,
+                "FontBold": true,
                 "FontItalic": false,
                 "Raised": false,
                 "Disabled": false,
