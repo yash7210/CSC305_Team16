@@ -390,6 +390,18 @@
                         "location": true,
                         "iap": false
                     }
+                },
+                "66352de9e9438f9cffb8b306": {},
+                "a118059e-e00e-4149-8e10-f74274399e28": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "location": true,
+                        "iap": false
+                    }
                 }
             },
             "categories": [
@@ -425,6 +437,9 @@
                         "id": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4"
                     },
                     {
+                        "id": "a118059e-e00e-4149-8e10-f74274399e28"
+                    },
+                    {
                         "id": "2b22f9d2-2232-4e53-9766-e045f2b667b9"
                     },
                     {
@@ -441,7 +456,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": "https://x.thunkable.com/project/65ecd9726ee0575828ca172a/getasset/662fcb857564edd482deb6cb",
-            "projectName": "F4-29 Upload",
+            "projectName": "F5-3 Conor Update",
             "settings": {
                 "teamId": null,
                 "appName": "FitnessRivals",
@@ -967,6 +982,61 @@
                     "scope": "APP",
                     "name": "tempurl",
                     "screenId": "3574da1c-64ca-4d29-9b87-30b0c66ca8c7"
+                },
+                "07a16769-5a0c-4403-9101-de819f30b5cf": {
+                    "scope": "APP",
+                    "name": "proper_feed_list",
+                    "screenId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4"
+                },
+                "415298d8-a46e-4d67-b495-4e405f3da42c": {
+                    "scope": "APP",
+                    "name": "clean_list",
+                    "screenId": "3a48dcc1-9ace-4052-b0ac-b3dfd26b74a4"
+                },
+                "361dbc55-d3f5-4398-a8e7-3a888b85ab0e": {
+                    "scope": "APP",
+                    "name": "currentFriendID",
+                    "screenId": "6861acc0-ccea-40e1-b159-c0dfac9607a6"
+                },
+                "cff7538b-aaae-4081-b13b-2d4452b00ff6": {
+                    "scope": "STORED",
+                    "name": "feed-ctr",
+                    "screenId": "a118059e-e00e-4149-8e10-f74274399e28"
+                },
+                "bf82a525-931a-4d68-a3e1-8681756c91bf": {
+                    "scope": "APP",
+                    "name": "j",
+                    "screenId": "a118059e-e00e-4149-8e10-f74274399e28"
+                },
+                "18e90e3a-bed3-415d-9f72-b3f32b6ecde4": {
+                    "scope": "APP",
+                    "name": "idString",
+                    "screenId": "a118059e-e00e-4149-8e10-f74274399e28"
+                },
+                "60deb3bc-0b18-47bc-a9e1-445520eb47cc": {
+                    "scope": "APP",
+                    "name": "feed_text",
+                    "screenId": "a118059e-e00e-4149-8e10-f74274399e28"
+                },
+                "a6676a77-da2a-48fa-b6bc-dbec199e5377": {
+                    "scope": "APP",
+                    "name": "feed",
+                    "screenId": "a118059e-e00e-4149-8e10-f74274399e28"
+                },
+                "05496ac6-9135-4833-9658-ee84ce24faed": {
+                    "scope": "APP",
+                    "name": "proper_feed_list",
+                    "screenId": "a118059e-e00e-4149-8e10-f74274399e28"
+                },
+                "f55255d7-8e26-43b4-a33c-32233b132604": {
+                    "scope": "APP",
+                    "name": "clean_list",
+                    "screenId": "a118059e-e00e-4149-8e10-f74274399e28"
+                },
+                "e45c5f85-1341-4b47-8487-28726eb51bbf": {
+                    "scope": "APP",
+                    "name": "returningToFriendPage",
+                    "screenId": "a118059e-e00e-4149-8e10-f74274399e28"
                 }
             },
             "defaultDesignerDevice": "PHONE",
