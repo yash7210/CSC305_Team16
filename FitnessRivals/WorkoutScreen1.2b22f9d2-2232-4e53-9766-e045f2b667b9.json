@@ -264,13 +264,15 @@
                     "top": "15.411825337331335%",
                     "lineHeight": 1,
                     "display": "flex",
-                    "textAlign": "center"
+                    "textAlign": "center",
+                    "fontWeight": "bold"
                 },
                 "ParentId": "2b22f9d2-2232-4e53-9766-e045f2b667b9",
                 "position": "absolute",
                 "edgeOffsets": 148,
                 "children": "Choose a target muscle ",
-                "TextAlign": "center"
+                "TextAlign": "center",
+                "FontWeight": "bold"
             },
             "children": [],
             "id": "6c4ac0a7-644c-4664-8a03-d39e9b2d3034",

@@ -286,13 +286,15 @@
                     "top": "14.512275112443778%",
                     "lineHeight": 1,
                     "display": "flex",
-                    "textAlign": "center"
+                    "textAlign": "center",
+                    "fontWeight": "bold"
                 },
                 "ParentId": "154d4e59-09bf-4984-a557-cf5d52f0503a",
                 "position": "absolute",
                 "edgeOffsets": 89,
                 "children": "Click on an exercise for more information",
-                "TextAlign": "center"
+                "TextAlign": "center",
+                "FontWeight": "bold"
             },
             "children": [],
             "id": "e90c6b0b-18d2-4276-8fad-ab165e5bdacd",

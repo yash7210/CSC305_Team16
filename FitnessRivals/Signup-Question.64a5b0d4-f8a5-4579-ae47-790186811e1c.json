@@ -1,4 +1,5 @@
 {
+    "id": "64a5b0d4-f8a5-4579-ae47-790186811e1c",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -789,7 +790,6 @@
             "name": "Label48"
         }
     ],
-    "id": "64a5b0d4-f8a5-4579-ae47-790186811e1c",
     "thunkableVersion": 454,
     "name": "Signup-Question"
 }
