@@ -1,4 +1,5 @@
 {
+    "id": "a118059e-e00e-4149-8e10-f74274399e28",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -411,7 +412,6 @@
             "name": "Label52"
         }
     ],
-    "id": "a118059e-e00e-4149-8e10-f74274399e28",
     "thunkableVersion": 454,
     "bindings": null,
     "name": "Friend_Feed"
